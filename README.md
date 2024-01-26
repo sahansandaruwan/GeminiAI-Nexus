@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://sandaruwan-img-host.pages.dev/88976667.png" width="350" height="350">
+  <img src="https://github.com/sahansandaruwan/GeminiAI-Nexus/blob/Master/Assets/1.jpg" width="350" height="350">
 
 
 
-  <h1> 🈹 Big Boss</h1>
+  <h1> 👻 GeminiAI Nexus</h1>
 </div>
 
 GeminiAI Nexus is a Python GUI application that leverages Google's Generative AI (GeminiAI) for content generation.
