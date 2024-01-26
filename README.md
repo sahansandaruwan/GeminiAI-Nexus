@@ -12,6 +12,7 @@ GeminiAI Nexus is a Python GUI application that leverages Google's Generative AI
 2. Choose the output language from the dropdown menu.
 3. Input a prompt in the specified field.
 4. Click the "Send Prompt" button to generate content.
+5. [Download UI](https://github.com/sahansandaruwan/GeminiAI-Nexus/releases/download/V1/app.exe)
    
 <div align="center">
   <img src="https://raw.githubusercontent.com/sahansandaruwan/GeminiAI-Nexus/Master/Assets/2.png" width="350" height="350">
