@@ -15,7 +15,7 @@ GeminiAI Nexus is a Python GUI application that leverages Google's Generative AI
 5. [Download UI](https://github.com/sahansandaruwan/GeminiAI-Nexus/releases/download/V1/app.exe)
    
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sahansandaruwan/GeminiAI-Nexus/Master/Assets/2.png" width="350" height="350">
+  <img src="https://raw.githubusercontent.com/sahansandaruwan/GeminiAI-Nexus/Master/Assets/3.png" width="350" height="350">
 </div>
 
 ## Note:
